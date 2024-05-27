@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://s3.bmp.ovh/imgs/2022/12/02/bc7428e3916c3a4c.jpg
-heroText: Hero我的张威的HeroText标题
+heroText: Hero我的张威的服务器上的HeroText标题
 tagline: Hero张威副标题
 actionText: 快速上手，快快快→
 actionLink: /README.md
